@@ -11,6 +11,16 @@ npx create-next-app@latest --typescript
 yarn create next-app --typescript
 ```
 
+```
+code 프로젝트 명
+// visual studio 새 창에서 프로젝트 열림
+```
+
+```
+npm run dev // 시작
+yarn dev
+```
+
 # Next.js 특징
 - 사전 렌더링(pre-rendering)
   - 정적 생성(권장, 성능상의 이유로): HTML은 빌드 시 생성되며 각 요청에서 재사용됩니다.
